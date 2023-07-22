@@ -6,7 +6,7 @@ The Hoot plugins are not maintained, they were created purely to experiment with
 
 # To build
 
-- Download the client from official repo
+- Download the client from official repo and follow these build instructions https://github.com/open-osrs/runelite/wiki/Building-with-IntelliJ-IDEA
 - refresh this gradle when its clones
 
 
