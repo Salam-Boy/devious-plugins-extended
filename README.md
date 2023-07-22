@@ -24,3 +24,5 @@ withType<Jar> {
             }
         }
 ```
+
+- plugins will be in ~/.openosrs/plugins this is where your plugin folder is!
