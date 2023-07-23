@@ -30,11 +30,13 @@ withType<Jar> {
         }
 ```
 
-    - plugins will be in ~/.openosrs/plugins this is where your plugin folder is!
+- plugins will be in ~/.openosrs/plugins this is where your plugin folder is!
 
 - Enable HotSWAP:
 
  ![image](https://github.com/Salam-Boy/devious-plugins-extended/assets/139904240/406ba07e-361f-4a99-93ec-f92686423d35)
+
+ You need to point the path like in the picture to your plugins folder.
 
  Dont forget the to add the plugin to settings.gradle.kts this will allow gradle build to detect it, the plugin must also have a corresponding gradle build file (plugin-name.gradle.kts) in the    
  source folder of the plugin!
